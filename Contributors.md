@@ -28,11 +28,11 @@
 - jankit
 - [Suyash Patel](https://github.com/suyashpatel98)
 - Hemal Shah
-- Aksh Thakur
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
 - Kumaramanas Nethil
 - [Richard Hu](https://github.com/rhu2001/)
+Aayushi
 - czx229
 - [Amar](https://github.com/immortalv5)
 - Austin Suarez
